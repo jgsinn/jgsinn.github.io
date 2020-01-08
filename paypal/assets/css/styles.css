@@ -1,0 +1,13 @@
+.row {
+  padding: 10%;
+  background-color: #E9ECEF;
+}
+
+.dropdown, .dropleft, .dropright, .dropup {
+  padding-top: 3%;
+}
+
+.btn.btn-success.btn-block.btn-sm.text-center.d-lg-flex.justify-content-center.align-items-center.align-self-center.justify-content-lg-center.align-items-lg-center {
+  margin-top: 7%;
+}
+
